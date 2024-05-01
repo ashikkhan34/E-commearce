@@ -1,0 +1,18 @@
+.keybord{
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 0 1px black;
+    margin-top: 5px;
+}
+.keybord :hover{
+    box-shadow: 0 0 1px black;
+}
+.keybord h4 a{
+    text-decoration: none;
+
+}
+.keybord h4 :hover{
+    color: black;
+    box-shadow: 0 0 8px black;
+}

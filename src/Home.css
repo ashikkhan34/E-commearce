@@ -1,0 +1,44 @@
+.sidebar{
+    height: 600px;
+    width: 200px;
+    background-color:#fff;
+    margin: 5px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.5);
+    position: relative;
+}
+.sideul{
+    list-style: none;
+    
+    
+    
+}
+.sideul li{
+    padding: 20px;
+}
+.sideul li a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+
+}
+.showbar{
+    position: absolute;
+    margin-left: 500px;
+}
+.shop{
+    height: 400px;
+    width: 450px;
+    margin: 20px;
+}
+.bike{
+    height: 300px;
+    width: 400px;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(52, 54, 54);
+    text-align: center;
+    align-items: center;
+    color: rgb(134, 14, 14);
+    
+}

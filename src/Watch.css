@@ -1,0 +1,28 @@
+.watch{
+    height: 360px;
+    width: 300px;
+    box-shadow: 0 0 1px green;
+    margin-top: 9px;
+    text-align: center;
+    
+}
+.watch :hover{
+    box-shadow: 0 0 2px black;
+}
+.watch h4 a{
+    text-decoration: none;
+    color: red;
+    margin-bottom: 10px;
+}
+.watch h4 :hover{
+    box-shadow: 0 0 5px black;
+    color: black;
+}
+.watch h5 a {
+    text-decoration: none;
+    color: red;
+}
+.watch h5 :hover{
+    box-shadow: 0 0 5px black;
+    color: black;
+}

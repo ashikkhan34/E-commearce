@@ -1,0 +1,33 @@
+
+
+
+.bikepost h5 a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+
+}
+.bikepost h5 :hover{
+    color: blue;
+    box-shadow: 0 0 5px red;
+}
+.bikepost {
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    box-shadow: 0 0 1px black;
+    margin-top: 10px;
+}
+.active{
+    color: #000;
+    background-color: rgb(151, 106, 106);
+    border-radius: 5px;
+}
+.bkfoot{
+    margin-bottom: 0;
+    background-color: black;
+    text-align: center;
+    color: beige;
+    height: 50px;
+    margin-top: 20px;
+    
+}

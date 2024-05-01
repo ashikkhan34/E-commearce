@@ -1,0 +1,27 @@
+.phone{
+    height: 350px;
+    width: 300px;
+    margin-top: 10px;
+    box-shadow: 0 0 1px blue;
+    text-align: center;
+}
+.phone :hover{
+    box-shadow: 0 0 5px black;
+}
+.phone h4 a{
+    text-decoration: none;
+    color: red;
+
+}
+.phone h4 :hover{
+    box-shadow: 0 0 5px black;
+    color: black;
+}
+.phone h5 a{
+    text-decoration: none;
+    color: red;
+}
+.phone h5 :hover{
+    box-shadow: 0 0 8px black;
+    color: black;
+}

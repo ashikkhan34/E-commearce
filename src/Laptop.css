@@ -1,0 +1,18 @@
+.laptop{
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    box-shadow:  0 0 1px black;
+    margin-top: 5px;
+}
+.laptop :hover{
+    box-shadow:  0 0 1px black;
+
+}
+.laptop h4 a{
+    text-decoration: none;
+}
+.laptop h4 :hover{
+    box-shadow: 0 0 8px black;
+    color: black;
+}
